@@ -17,9 +17,7 @@ Sbt - Assembly  - 0.14.6
 
 ### Attendance in percentage 
 ##Bar Graph
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download.png" width="350" title="hover text">
-</p>
+![Screenshot](download.png)
 
 ##Line Graph
 <p align="center">
