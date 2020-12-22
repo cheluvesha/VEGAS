@@ -2,7 +2,7 @@
 Plotting Userlog Data for the different kind of analyzed data
 
 ## Project Description
-# Using Vegas for visualizing the below 
+### Using Vegas for visualizing the below 
 1. attendance in percentage
 2. Count of engineers in each tech
 3. Idle hours in minutes of each user
