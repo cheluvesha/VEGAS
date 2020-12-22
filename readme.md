@@ -20,43 +20,29 @@ Sbt - Assembly  - 0.14.6
 ![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download.png)
 
 ##Line Graph
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (1).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (1).png)
 
 ##Point Graph 
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (2).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (2).png)
+
 
 ### Idle hours in minutes
 ##Bar Graph
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (5).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (5).png)
 
 ##Line Graph
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (4).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (4).png)
 
 ##Point Graph 
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (3).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (3).png)
+ 
 
 ### Number of Engineers in each Technology
 ##Bar Graph
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (7).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (7).png)
 
 ##Line Graph
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (6).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (6).png)
 
 ##Point Graph 
-<p align="center">
-  <img src="/home/cheluvesha/Downloads/download (8).png" width="350" title="hover text">
-</p>
+![Screenshot](https://github.com/cheluvesha/VEGAS/blob/main/charts/download (8).png)
